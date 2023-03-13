@@ -20,4 +20,4 @@ Write a Python Selenium (or alternative framework) script that performs the foll
 
 ### Once Complete
 1. Create a SETUP.md in the base directory with setup instructions.
-2. Please let us know that you have completed the challege send your solutio jobs@circunomics.com
+2. Please let us know that you have completed the challege send your solution jobs@circunomics.com
